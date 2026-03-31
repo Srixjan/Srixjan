@@ -74,16 +74,10 @@ class Srijan:
 </table>
 
 ---
-
 ### 📊 Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srixjan&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00C896&text_color=90a4ae&icon_color=00C896&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srixjan&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00C896&text_color=90a4ae" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Srixjan&hide_border=true&background=0a0a0a&stroke=0a1f14&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=90a4ae&dates=4a6572&currStreakNum=e0f7fa&sideNums=e0f7fa" />
+  <img src="https://streak-stats.demolab.com?user=Srixjan&theme=dark&hide_border=true&background=0A0A0A&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=90a4ae&dates=4a6572&currStreakNum=e0f7fa&sideNums=e0f7fa" />
 </div>
 
 ---
