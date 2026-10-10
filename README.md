@@ -1,119 +1,253 @@
-<div align="center">
+<h1 align="center">Srijan Chowdhury</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00C896&center=true&vCenter=true&width=620&lines=Srijan+Chowdhury;ML+Engineer+%7C+Python+%7C+FastAPI;Building+Data-Driven+Risk+Platforms" alt="Typing SVG" />
+<h3 align="center">Machine Learning Engineer · Deep Learning · NLP & GenAI · Core Systems</h3>
 
-<br/>
+<p align="center">
+  <em>Designing end-to-end machine learning systems, transformer inference pipelines, deep neural architectures, and algorithmic solutions with mathematical rigor.</em>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1f14?style=flat-square&logo=linkedin&logoColor=00C896)](https://www.linkedin.com/in/srijanchowdhury)
-[![GitHub](https://img.shields.io/badge/GitHub-0a1f14?style=flat-square&logo=github&logoColor=00C896)](https://github.com/Srixjan)
-[![Portfolio](https://img.shields.io/badge/Live_App-MPLADS-0a1f14?style=flat-square&logo=vercel&logoColor=00C896)](https://mplads-fund-intelligence.vercel.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=Srixjan&style=flat-square&color=0a1f14&labelColor=0d2b1e&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-```python
-class Srijan:
-    name       = "Srijan Chowdhury"
-    college    = "Netaji Subhash Engineering College, Kolkata"
-    degree     = "Bachelor of Computer Applications"
-    role       = "ML Engineer & Backend Developer"
-    languages  = ["Python", "Java", "SQL"]
-    ml_stack   = ["scikit-learn", "NumPy", "Pandas", "Matplotlib", "Seaborn"]
-    backend    = ["FastAPI", "Uvicorn", "Pydantic", "REST APIs"]
-    tools      = ["Git", "Vercel", "Jupyter", "VS Code"]
-    working_on = [
-        "MPLADS Fund Intelligence — National public finance ML platform",
-        "LoanLens — Credit risk & loan approval classifier",
-        "Production ML model deployment & automated pipelines"
-    ]
-    interests  = ["Machine Learning", "Public Finance / Civic Tech", "MLOps", "Risk Modeling"]
-```
+<p align="center">
+  <a href="https://github.com/Srixjan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Srixjan-172554?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/srijanchowdhury" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mplads-fund-intelligence.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Platform-MPLADS-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform"/>
+  </a>
+  <a href="mailto:srijanchowdhury.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-### ⚙️ Stack & Tooling
+## 💼 Professional Summary
 
-<div align="center">
+Applied **Machine Learning & Deep Learning Engineer** with hands-on expertise building production predictive pipelines, neural architectures (ANN, CNN, RNN), and GenAI/RAG systems. Strong foundation in **first-principles mathematical modeling**—having implemented foundational ML algorithms (OLS, Logistic Regression, KNN) from scratch without third-party frameworks—coupled with modern production tooling (**PyTorch, Hugging Face Transformers, FastAPI, and Scikit-learn**).
 
-**Languages & Backend**
+**Key Strengths:**
+- ✅ **Deep Learning & Neural Networks**: Built and trained ANNs, CNNs (CIFAR-10 computer vision), and RNNs (sentiment analysis) using PyTorch
+- ✅ **NLP & Generative AI**: End-to-end RAG (Retrieval-Augmented Generation) pipelines, OpenAI API integrations, and Hugging Face T5 transformer models
+- ✅ **First-Principles Modeling**: Implemented linear regression with OLS, logistic regression, and KNN from pure mathematical scratch
+- ✅ **Production Inference & APIs**: Serving transformer models and scikit-learn pipelines with FastAPI, Uvicorn, and Pydantic validation
+- ✅ **Feature Engineering**: Quadratic polynomial interactions, log normalization for skew mitigation, PCA dimensionality reduction, and strict leakage prevention
+- ✅ **Algorithmic Foundations**: Strong problem-solving background in core Data Structures and Algorithms implemented in Java
 
-![Python](https://img.shields.io/badge/Python-0a1f14?style=for-the-badge&logo=python&logoColor=00C896)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a1f14?style=for-the-badge&logo=fastapi&logoColor=00C896)
-![Java](https://img.shields.io/badge/Java-0a1f14?style=for-the-badge&logo=openjdk&logoColor=00C896)
-
-**Machine Learning & Data Engineering**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a1f14?style=for-the-badge&logo=scikit-learn&logoColor=00C896)
-![NumPy](https://img.shields.io/badge/NumPy-0a1f14?style=for-the-badge&logo=numpy&logoColor=00C896)
-![Pandas](https://img.shields.io/badge/Pandas-0a1f14?style=for-the-badge&logo=pandas&logoColor=00C896)
-![Seaborn](https://img.shields.io/badge/Seaborn-0a1f14?style=for-the-badge&logo=python&logoColor=00C896)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a1f14?style=for-the-badge&logo=python&logoColor=00C896)
-
-**DevOps, Deployment & Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-0a1f14?style=for-the-badge&logo=vercel&logoColor=00C896)
-![Git](https://img.shields.io/badge/Git-0a1f14?style=for-the-badge&logo=git&logoColor=00C896)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a1f14?style=for-the-badge&logo=jupyter&logoColor=00C896)
-![VS Code](https://img.shields.io/badge/VS%20Code-0a1f14?style=for-the-badge&logo=visual-studio-code&logoColor=00C896)
-
-</div>
+**Ready for:**
+- Machine Learning Engineer & Applied AI roles
+- Deep Learning & NLP Engineering positions
+- Data Science & Predictive Analytics roles
+- High-impact AI/ML product engineering teams
 
 ---
 
-### 🔬 Featured Projects
+## 🚀 Featured Projects
+
+### 🏆 Production Platforms & Transformer Systems
 
 <table>
-<tr>
-<td>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="https://github.com/Srixjan/MPLADS-Fund-Intelligence">MPLADS Fund Intelligence</a> ⭐ Production</h3>
+      <p><strong>Live Platform:</strong> <a href="https://mplads-fund-intelligence.vercel.app">mplads-fund-intelligence.vercel.app</a></p>
+      <p><strong>📊 Scale:</strong> ₹8,315+ Cr Public Funds Audited · 543 Lok Sabha Seats · High-Recall (~81%)</p>
+      <p>National-scale civic tech analytics and supervised risk intelligence platform tracking public infrastructure sanctions across 36 Indian States and UTs. Engineered state-relative median target baselines to flag at-risk stalled projects with sub-10ms serverless response time.</p>
+      <p><strong>Stack:</strong> Python · Scikit-learn · FastAPI · Pandas · NumPy · Chart.js · Vercel</p>
+      <p><strong>Key Highlights:</strong> State-relative risk benchmarks · Interactive parameter simulator · Automated MoSPI data sanitization · Asymmetric cost-sensitive loss alignment</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/Srixjan/Text-Summarizer">Text-Summarizer</a> ⭐ Transformer NLP</h3>
+      <p><strong>Repository:</strong> <a href="https://github.com/Srixjan/Text-Summarizer">github.com/Srixjan/Text-Summarizer</a></p>
+      <p><strong>📊 Architecture:</strong> Hugging Face T5 Transformer · PyTorch · Beam Search Decoding</p>
+      <p>Production-ready NLP web application and RESTful API for automatic text summarization. Powered by T5-style sequence-to-sequence transformers running on PyTorch with automatic hardware detection (CUDA / MPS / CPU) and Git LFS model checkpoint management.</p>
+      <p><strong>Stack:</strong> PyTorch · Transformers · FastAPI · Uvicorn · Pydantic · Git LFS · Python</p>
+      <p><strong>Key Highlights:</strong> Beam search decoding · Dedicated FastAPI REST endpoint + Web UI · Model weights serialized via safetensors · Automated text preprocessing</p>
+    </td>
+  </tr>
+</table>
 
-### 🏛️ [MPLADS Fund Intelligence & Completion Risk Platform](https://github.com/Srixjan/MPLADS-Fund-Intelligence)
-**Flagship End-to-End Civic Tech & Machine Learning Platform**  
-[🌐 Live Web Platform](https://mplads-fund-intelligence.vercel.app/) · [📁 Source Code](https://github.com/Srixjan/MPLADS-Fund-Intelligence)
+### 🌟 Supervised & Unsupervised Machine Learning
 
-- **Problem & Scope**: Analyzes public infrastructure execution and fund utilization across **₹8,315+ Crore** in sanctioned allocations spanning all **543 Parliamentary Constituencies** and 36 States/UTs under India's MPLADS scheme.
-- **ML Pipeline**: Engineered an automated Scikit-Learn `ColumnTransformer` with missing value imputation and state-relative median target formulation. Trained a supervised classifier assessing stalled work risk.
-- **Metric Priority**: Optimized for **Recall (~81%)** over generic accuracy—in public finance accountability, missing an at-risk constituency (false negative) carries much higher consequence than flagging one for review.
-- **System Architecture**:
-  - **Backend**: FastAPI REST endpoints, Pydantic data schemas, serialized joblib artifacts (`<10ms` cached cold boot).
-  - **Interactive Features**: Real-time AI Risk Simulator for policy makers, 543-MP searchable leaderboard, and macro KPI metrics.
-  - **Production**: Deployed serverless on Vercel with zero-framework vanilla JS & Chart.js for lightning-fast rendering.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://github.com/Srixjan/LoanLens">LoanLens</a></h3>
+      <p><strong>Repository:</strong> <a href="https://github.com/Srixjan/LoanLens">github.com/Srixjan/LoanLens</a></p>
+      <p><strong>📊 Benchmark:</strong> 88.0% Accuracy · 0.810 F1-Score · 0.836 Recall · 1,000 Profiles</p>
+      <p>Supervised binary classification engine automating commercial loan eligibility triage while eliminating subjective underwriter bias. Engineered non-linear quadratic interactions (Credit_Score², DTI_Ratio²) and log transforms to model compounding default risk curves.</p>
+      <p><strong>Stack:</strong> Python · Scikit-learn · Pandas · NumPy · Seaborn · Matplotlib · Jupyter</p>
+      <p><strong>Key Highlights:</strong> Precision-prioritized thresholding (0.785) · Multi-model benchmark (Logistic Regression, KNN, Naive Bayes) · Zero-leakage standard scaling</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👥 <a href="https://github.com/Srixjan/CustomerCluster">CustomerCluster</a></h3>
+      <p><strong>Repository:</strong> <a href="https://github.com/Srixjan/CustomerCluster">github.com/Srixjan/CustomerCluster</a></p>
+      <p>Unsupervised behavioral customer segmentation system. Utilizes K-Means clustering, the Elbow Method, silhouette coefficient analysis, and Principal Component Analysis (PCA) dimensionality reduction to visualize high-dimensional customer cohorts.</p>
+      <p><strong>Stack:</strong> Python · Scikit-learn · Pandas · NumPy · Seaborn · Matplotlib</p>
+      <p><strong>Key Highlights:</strong> Elbow method & Silhouette evaluation · PCA 2D/3D projection · Behavioral cohort segmentation · Feature distribution profiling</p>
+    </td>
+  </tr>
+</table>
 
-**Tech**: `Python 3.10+` · `FastAPI` · `scikit-learn` · `Pandas` · `Chart.js` · `Vercel Serverless`
+### 🛡️ Cybersecurity Analytics & Algorithmic Foundations
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🏦 [LoanLens — Loan Approval & Credit Risk Classifier](https://github.com/Srixjan/LoanLens)
-**Supervised Binary Classification & Automated Decisioning Engine**  
-[📁 Source Code](https://github.com/Srixjan/LoanLens)
-
-- **Problem & Scope**: Automated initial loan eligibility screening for financial institutions across **1,000 applicant profiles** and 20 multi-domain attributes (demographics, credit history, debt-to-income ratios, collateral).
-- **Data Engineering**: Implemented strict train-only `StandardScaler` scaling to eliminate data leakage. Applied Label Encoding for ordinal features (`Education_Level`) and drop-first One-Hot Encoding for categorical variables.
-- **Feature Engineering**: Formulated quadratic polynomial interactions (`Credit_Score²`, `DTI_Ratio²`) to model non-linear default risk, and applied logarithmic transformation `log(Applicant_Income)` to neutralize severe right skewness.
-- **Model Evaluation**: Benchmarked Logistic Regression, Naive Bayes, and KNN ($k=7$). Prioritized **Precision (0.785)** and **F1-Score (0.810)** to strictly minimize costly false approvals (Type I error).
-- **Benchmark Result**: Logistic Regression achieved **88.0% Accuracy** and **0.836 Recall** post-feature engineering.
-
-**Tech**: `Python 3` · `scikit-learn` · `Pandas` · `NumPy` · `Seaborn` · `Matplotlib` · `Jupyter Notebook`
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Network Intrusion Detection</h3>
+      <p>High-volume network security threat classification trained on the benchmark KDDTrain+ dataset (125,000+ flow records). Implements multi-attack detection, feature correlation filtering, and categorical protocol encoding to detect malicious network anomalies in real time.</p>
+      <p><strong>Stack:</strong> Python · Scikit-learn · Pandas · NumPy · Matplotlib</p>
+      <p><strong>Key Highlights:</strong> High-dimensional network flow processing · Attack taxonomy classification (DoS, Probe, R2L, U2R) · Class imbalance handling</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/Srixjan/Java---Data-Structure-and-Algorithms">Java — Data Structures & Algorithms</a></h3>
+      <p><strong>Repository:</strong> <a href="https://github.com/Srixjan/Java---Data-Structure-and-Algorithms">github.com/Srixjan/Java---Data-Structure-and-Algorithms</a></p>
+      <p>Comprehensive repository of core data structures and algorithmic problem solutions implemented from scratch in pure Java, focused on object-oriented programming principles and asymptotic complexity optimization.</p>
+      <p><strong>Stack:</strong> Java · Object-Oriented Design · Complexity Analysis</p>
+      <p><strong>Key Highlights:</strong> Trees & Graphs · Dynamic Programming · Sorting & Searching · Stacks, Queues & LinkedLists · Recursion & Backtracking</p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 📊 Activity & Stats
+## 🔧 Technical Competencies
+
+### Deep Learning & Generative AI
+- **Neural Architectures**: Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN for CIFAR-10), Recurrent Neural Networks (RNN for Sentiment Analysis)
+- **Deep Learning Frameworks**: PyTorch (`torch`), Tensor Operations, Model Checkpointing, CUDA Acceleration
+- **NLP & Transformers**: Hugging Face Transformers (`transformers`), T5 Architecture, Sequence-to-Sequence Modeling, Beam Search Decoding, Tokenization
+- **Generative AI & LLMs**: RAG (Retrieval-Augmented Generation) Pipelines, Vector Embeddings, OpenAI API Integration
+
+### Machine Learning & Data Science
+- **Supervised Algorithms**: Logistic Regression, Decision Trees, Random Forests, K-Nearest Neighbors (KNN), Gaussian Naive Bayes, Support Vector Machines (SVM)
+- **Unsupervised Learning**: K-Means Clustering, PCA Dimensionality Reduction, Silhouette Analysis, Anomaly Detection
+- **First-Principles Modeling**: Scratch Implementation of Linear Regression (OLS), Logistic Regression, and KNN from mathematical foundations
+- **Feature Engineering**: Quadratic Polynomial Interactions ($x^2$), Logarithmic Skew Mitigation ($\log(x)$), Standard Scaling, Min-Max Scaling, One-Hot Encoding
+- **Model Evaluation**: Precision-Recall Trade-offs, ROC-AUC, F1-Score Optimization, Cross-Validation, Confusion Matrices
+
+### Data Engineering & Analytics
+- **Data Wrangling**: Pandas (Complex filtering, aggregations, pivoting, merging, missing value imputation)
+- **Numerical Computing**: NumPy (Vectorized mathematics, array slicing, matrix algebra)
+- **Data Visualization**: Matplotlib & Seaborn (Correlation heatmaps, pairplots, residual plots, distributions)
+- **Data Collection**: Web Scraping (BeautifulSoup, automated tabular data extraction pipelines)
+
+### Backend Engineering & Deployment
+- **API Frameworks**: FastAPI, Uvicorn, Asynchronous REST API Architecture
+- **Data Contracts & Schemas**: Pydantic v2 Models, Safe Serialization, Safetensors, Joblib
+- **Deployment & Model Management**: Vercel Serverless Functions, Git LFS (Large File Storage for weights)
+- **Core Languages**: Python 3.10+, Java, Object-Oriented Design
+
+### Developer Tools & Workflow
+- **Environments**: Jupyter Notebook, VS Code, Linux CLI, Bash
+- **Version Control**: Git, GitHub, Git LFS, Feature Branching
+
+---
+
+## 📊 Impact & Metrics
+
+| **Metric** | **Achievement** |
+|:---|:---|
+| **Public Funds Analyzed** | **₹8,315+ Cr** tracked across 543 Lok Sabha constituencies (MPLADS) |
+| **Civic Risk Model Recall** | **~81.0%** (Tuned to eliminate costly unflagged project defaults) |
+| **LoanLens Model Accuracy** | **88.0%** post non-linear feature engineering (0.810 F1, 0.836 Recall) |
+| **NLP Transformer Model** | T5 Transformer deployed with PyTorch & FastAPI via Git LFS |
+| **Cybersecurity Dataset Scale** | **125,000+** network flow records analyzed (KDD Cup) |
+| **First-Principles Implementations** | OLS Linear Regression, Logistic Regression, and KNN written from scratch |
+
+---
+
+## 🔬 First-Principles & Experimental Implementations
+
+```
+[ Mathematical Foundations ] ────────> [ Deep Learning Architectures ] ────────> [ Production Systems ]
+  • Linear Regression (OLS)              • Multi-Layer Perceptron (ANN)            • T5 Transformer API (FastAPI)
+  • Logistic Regression                  • CNN (CIFAR-10 Classification)           • MPLADS Fund Risk Platform
+  • K-Nearest Neighbors (k=7)            • RNN (Sentiment Analysis)                • Loan Underwriting Classifier
+  • Gradient Optimization                • RAG Retrieval Pipelines                 • Customer Segmentation
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" title="Python"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java" title="Java"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" alt="PyTorch" title="PyTorch"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" title="FastAPI"/>
+</div>
+
+### Machine Learning & NLP
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="38" alt="Scikit-Learn" title="Scikit-Learn"/>
+  <img width="14"/>
+  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logoColor=black" height="38" alt="Hugging Face Transformers" title="Hugging Face Transformers"/>
+  <img width="14"/>
+  <img src="https://img.shields.io/badge/GenAI-RAG%20Pipelines-1E40AF?style=for-the-badge&logoColor=white" height="38" alt="RAG Pipelines" title="RAG Pipelines"/>
+  <img width="14"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="38" alt="Pydantic" title="Pydantic"/>
+</div>
+
+### Data Analysis & Visualization
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="Pandas" title="Pandas"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="NumPy" title="NumPy"/>
+  <img width="14"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="38" alt="Matplotlib" title="Matplotlib"/>
+  <img width="14"/>
+  <img src="https://img.shields.io/badge/Seaborn-388e3c?style=for-the-badge&logo=python&logoColor=white" height="38" alt="Seaborn" title="Seaborn"/>
+</div>
+
+### Tools & Deployment
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38" alt="Jupyter" title="Jupyter"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VS Code" title="VS Code"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" title="Git"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub" title="GitHub"/>
+  <img width="14"/>
+  <img src="https://img.shields.io/static/v1?label=%20&message=Vercel&logo=vercel&logoColor=ffffff&color=000000&style=for-the-badge" height="38" alt="Vercel" title="Vercel"/>
+</div>
+
+---
+
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Srixjan&theme=dark&hide_border=true&background=0A0A0A&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=90a4ae&dates=4a6572&currStreakNum=e0f7fa&sideNums=e0f7fa" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Srixjan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srixjan&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 📞 Get In Touch
+
+<div align="center">
+  <a href="mailto:srijanchowdhury.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-srijanchowdhury.dev%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/srijanchowdhury" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Srijan%20Chowdhury-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Srixjan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Srixjan-172554?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&color=00C896&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!" />
+  <p><strong>Open to opportunities in Machine Learning, Deep Learning, and AI Systems Engineering</strong></p>
 </div>
