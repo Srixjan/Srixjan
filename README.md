@@ -203,7 +203,7 @@ Applied **Machine Learning & Deep Learning Engineer** with hands-on expertise bu
 ## 📞 Get In Touch
 
 <div align="center">
-  <a href="mailto:srijanchowdhury.dev@gmail.com">
+  <a href="mailto:srijan.chowdhury2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-srijanchowdhury.dev%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
