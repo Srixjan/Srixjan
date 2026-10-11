@@ -50,7 +50,7 @@ Applied **Machine Learning & Deep Learning Engineer** with hands-on expertise bu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/Srixjan/MPLADS-Fund-Intelligence">MPLADS Fund Intelligence</a> ⭐ Production</h3>
+      <h3>🏛️ MPLADS Fund Intelligence ⭐ Production</h3>
       <p><strong>Live Platform:</strong> <a href="https://mplads-fund-intelligence.vercel.app">mplads-fund-intelligence.vercel.app</a></p>
       <p><strong>📊 Scale:</strong> ₹8,315+ Cr Public Funds Audited · 543 Lok Sabha Seats · High-Recall (~81%)</p>
       <p>National-scale civic tech analytics and supervised risk intelligence platform tracking public infrastructure sanctions across 36 Indian States and UTs. Engineered state-relative median target baselines to flag at-risk stalled projects with sub-10ms serverless response time.</p>
@@ -58,8 +58,7 @@ Applied **Machine Learning & Deep Learning Engineer** with hands-on expertise bu
       <p><strong>Key Highlights:</strong> State-relative risk benchmarks · Interactive parameter simulator · Automated MoSPI data sanitization · Asymmetric cost-sensitive loss alignment</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/Srixjan/Text-Summarizer">Text-Summarizer</a> ⭐ Transformer NLP</h3>
-      <p><strong>Repository:</strong> <a href="https://github.com/Srixjan/Text-Summarizer">github.com/Srixjan/Text-Summarizer</a></p>
+      <h3>📝 Text-Summarizer ⭐ Transformer NLP</h3>
       <p><strong>📊 Architecture:</strong> Hugging Face T5 Transformer · PyTorch · Beam Search Decoding</p>
       <p>Production-ready NLP web application and RESTful API for automatic text summarization. Powered by T5-style sequence-to-sequence transformers running on PyTorch with automatic hardware detection (CUDA / MPS / CPU) and Git LFS model checkpoint management.</p>
       <p><strong>Stack:</strong> PyTorch · Transformers · FastAPI · Uvicorn · Pydantic · Git LFS · Python</p>
@@ -73,39 +72,17 @@ Applied **Machine Learning & Deep Learning Engineer** with hands-on expertise bu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 <a href="https://github.com/Srixjan/LoanLens">LoanLens</a></h3>
-      <p><strong>Repository:</strong> <a href="https://github.com/Srixjan/LoanLens">github.com/Srixjan/LoanLens</a></p>
+      <h3>💳 LoanLens</h3>
       <p><strong>📊 Benchmark:</strong> 88.0% Accuracy · 0.810 F1-Score · 0.836 Recall · 1,000 Profiles</p>
       <p>Supervised binary classification engine automating commercial loan eligibility triage while eliminating subjective underwriter bias. Engineered non-linear quadratic interactions (Credit_Score², DTI_Ratio²) and log transforms to model compounding default risk curves.</p>
       <p><strong>Stack:</strong> Python · Scikit-learn · Pandas · NumPy · Seaborn · Matplotlib · Jupyter</p>
       <p><strong>Key Highlights:</strong> Precision-prioritized thresholding (0.785) · Multi-model benchmark (Logistic Regression, KNN, Naive Bayes) · Zero-leakage standard scaling</p>
     </td>
     <td width="50%" valign="top">
-      <h3>👥 <a href="https://github.com/Srixjan/CustomerCluster">CustomerCluster</a></h3>
-      <p><strong>Repository:</strong> <a href="https://github.com/Srixjan/CustomerCluster">github.com/Srixjan/CustomerCluster</a></p>
+      <h3>👥 CustomerCluster</h3>
       <p>Unsupervised behavioral customer segmentation system. Utilizes K-Means clustering, the Elbow Method, silhouette coefficient analysis, and Principal Component Analysis (PCA) dimensionality reduction to visualize high-dimensional customer cohorts.</p>
       <p><strong>Stack:</strong> Python · Scikit-learn · Pandas · NumPy · Seaborn · Matplotlib</p>
       <p><strong>Key Highlights:</strong> Elbow method & Silhouette evaluation · PCA 2D/3D projection · Behavioral cohort segmentation · Feature distribution profiling</p>
-    </td>
-  </tr>
-</table>
-
-### 🛡️ Cybersecurity Analytics & Algorithmic Foundations
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Network Intrusion Detection</h3>
-      <p>High-volume network security threat classification trained on the benchmark KDDTrain+ dataset (125,000+ flow records). Implements multi-attack detection, feature correlation filtering, and categorical protocol encoding to detect malicious network anomalies in real time.</p>
-      <p><strong>Stack:</strong> Python · Scikit-learn · Pandas · NumPy · Matplotlib</p>
-      <p><strong>Key Highlights:</strong> High-dimensional network flow processing · Attack taxonomy classification (DoS, Probe, R2L, U2R) · Class imbalance handling</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Srixjan/Java---Data-Structure-and-Algorithms">Java — Data Structures & Algorithms</a></h3>
-      <p><strong>Repository:</strong> <a href="https://github.com/Srixjan/Java---Data-Structure-and-Algorithms">github.com/Srixjan/Java---Data-Structure-and-Algorithms</a></p>
-      <p>Comprehensive repository of core data structures and algorithmic problem solutions implemented from scratch in pure Java, focused on object-oriented programming principles and asymptotic complexity optimization.</p>
-      <p><strong>Stack:</strong> Java · Object-Oriented Design · Complexity Analysis</p>
-      <p><strong>Key Highlights:</strong> Trees & Graphs · Dynamic Programming · Sorting & Searching · Stacks, Queues & LinkedLists · Recursion & Backtracking</p>
     </td>
   </tr>
 </table>
@@ -133,12 +110,6 @@ Applied **Machine Learning & Deep Learning Engineer** with hands-on expertise bu
 - **Data Visualization**: Matplotlib & Seaborn (Correlation heatmaps, pairplots, residual plots, distributions)
 - **Data Collection**: Web Scraping (BeautifulSoup, automated tabular data extraction pipelines)
 
-### Backend Engineering & Deployment
-- **API Frameworks**: FastAPI, Uvicorn, Asynchronous REST API Architecture
-- **Data Contracts & Schemas**: Pydantic v2 Models, Safe Serialization, Safetensors, Joblib
-- **Deployment & Model Management**: Vercel Serverless Functions, Git LFS (Large File Storage for weights)
-- **Core Languages**: Python 3.10+, Java, Object-Oriented Design
-
 ### Developer Tools & Workflow
 - **Environments**: Jupyter Notebook, VS Code, Linux CLI, Bash
 - **Version Control**: Git, GitHub, Git LFS, Feature Branching
@@ -153,7 +124,6 @@ Applied **Machine Learning & Deep Learning Engineer** with hands-on expertise bu
 | **Civic Risk Model Recall** | **~81.0%** (Tuned to eliminate costly unflagged project defaults) |
 | **LoanLens Model Accuracy** | **88.0%** post non-linear feature engineering (0.810 F1, 0.836 Recall) |
 | **NLP Transformer Model** | T5 Transformer deployed with PyTorch & FastAPI via Git LFS |
-| **Cybersecurity Dataset Scale** | **125,000+** network flow records analyzed (KDD Cup) |
 | **First-Principles Implementations** | OLS Linear Regression, Logistic Regression, and KNN written from scratch |
 
 ---
